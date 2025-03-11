@@ -1,5 +1,5 @@
 # VGA: Vision and Graph Fused Attention Network for Rumor Detection
-Bai, Lin and Jia, Caiyan and Song, Ziying and Cui, Chaoqun
+Authors: Lin Bai, Caiyan Jia, Ziying Song, Chaoqun Cui
 
 # Reference
 Detailed data analysis and method are in our paper.
